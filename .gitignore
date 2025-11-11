@@ -1,0 +1,15 @@
+## python cache and virtual env
+__pycache__/
+*.pyc
+venv/
+
+## Model files
+*.cbm
+*.joblib
+
+## Dataset
+Dataset/
+
+## Logs and temp files
+*.log
+*.tmp
