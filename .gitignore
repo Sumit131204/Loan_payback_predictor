@@ -2,11 +2,6 @@
 __pycache__/
 *.pyc
 venv/
-
-## Model files
-*.cbm
-*.joblib
-
 ## Dataset
 Dataset/
 
