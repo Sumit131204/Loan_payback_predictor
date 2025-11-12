@@ -30,7 +30,7 @@ THRESHOLD = 0.5
 # ----------------------------------------
 
 st.set_page_config(page_title="Loan Payback Predictor", layout="centered")
-st.title("Loan Payback Predictor (CatBoost .cbm model)")
+st.title("Loan Payback Predictor")
 
 # ---------- loaders ----------
 @st.cache_resource(show_spinner=False)
